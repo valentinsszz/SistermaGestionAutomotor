@@ -1,0 +1,20 @@
+[
+    {
+        "nombre": "V8",
+        "precio": 14000000.0,
+        "categoria": "Motor",
+        "imagen": "imagenes_productos\\Captura de pantalla 2025-05-22 125218.png"
+    },
+    {
+        "nombre": "V6",
+        "precio": 11000000.0,
+        "categoria": "Motor",
+        "imagen": "imagenes_productos\\Captura de pantalla 2025-05-22 122924.png"
+    },
+    {
+        "nombre": "Colapinto",
+        "precio": 11000000.0,
+        "categoria": "Radiadores",
+        "imagen": "imagenes_productos\\Captura de pantalla 2025-05-22 123502.png"
+    }
+]

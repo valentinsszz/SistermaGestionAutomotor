@@ -1,0 +1,13 @@
+Hay dos niveles de usuarios
+
+puede usar:
+
+Puede hacer todo
+
+User: admin
+pass: admin
+
+Este usuario solo peude gestioanr pedidos, y clientes
+
+user: vendedor
+Pass: vendedor

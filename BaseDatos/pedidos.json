@@ -1,0 +1,70 @@
+[
+    {
+        "cliente": "Dario Arias",
+        "productos": [
+            {
+                "producto": "V8",
+                "cantidad": 1,
+                "precio_unitario": "$14000000.00",
+                "subtotal": "$14000000.00"
+            },
+            {
+                "producto": "Colapinto",
+                "cantidad": 1,
+                "precio_unitario": "$11000000.00",
+                "subtotal": "$11000000.00"
+            }
+        ],
+        "total": "Total: $25000000.00",
+        "fecha": "2025-06-22 21:26",
+        "id": 1
+    },
+    {
+        "cliente": "Valentin No se jaja",
+        "productos": [
+            {
+                "producto": "V8",
+                "cantidad": 1,
+                "precio_unitario": "$14000000.00",
+                "subtotal": "$14000000.00"
+            },
+            {
+                "producto": "V6",
+                "cantidad": 1,
+                "precio_unitario": "$11000000.00",
+                "subtotal": "$11000000.00"
+            }
+        ],
+        "total": "Total: $25000000.00",
+        "fecha": "2025-06-22 22:07",
+        "id": 2
+    },
+    {
+        "cliente": "Nico Nico",
+        "productos": [
+            {
+                "producto": "Colapinto",
+                "cantidad": 1,
+                "precio_unitario": "$11000000.00",
+                "subtotal": "$11000000.00"
+            }
+        ],
+        "total": "Total: $11000000.00",
+        "fecha": "2025-06-22 22:08",
+        "id": 3
+    },
+    {
+        "cliente": "Agustin Garcia",
+        "productos": [
+            {
+                "producto": "Colapinto",
+                "cantidad": 1,
+                "precio_unitario": "$11000000.00",
+                "subtotal": "$11000000.00"
+            }
+        ],
+        "total": "Total: $11000000.00",
+        "fecha": "2025-06-22 22:08",
+        "id": 4
+    }
+]
