@@ -1,4 +1,4 @@
-# 📦 Sistema de Gestión (Grupo 99)
+# 📦 Sistema de Gestión (Grupo 90)
 Este proyecto es una aplicación de escritorio desarrollada en Python que permite gestionar clientes, pedidos, usuarios, categorías y productos. Fue realizado para la materia Programación 1 y utiliza Tkinter para la interfaz gráfica y archivos JSON para el almacenamiento de datos.
 
 ## 🚀 Características
