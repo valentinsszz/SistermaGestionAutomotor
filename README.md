@@ -16,12 +16,12 @@ Este proyecto es una aplicación de escritorio desarrollada en Python que permit
 
 ✅ Recursos multimedia (imágenes, sonido de inicio).
 
-##⚙️ Requerimientos
+## ⚙️ Requerimientos
 Para ejecutar el proyecto necesitas:
 
 🐍 Python 3.10+
 
-##📦 Instalar las dependencias listadas en requirements.txt con:
+## 📦 Instalar las dependencias listadas en requirements.txt con:
 
 bash
 Copiar
@@ -30,7 +30,7 @@ pip install -r requirements.txt
 ▶️ Uso
 Clona el repositorio o descomprime el zip en tu máquina.
 
-##Instala las dependencias:
+## Instala las dependencias:
 
 bash
 Copiar
@@ -55,5 +55,5 @@ Crea una branch para tu funcionalidad.
 
 Realiza un pull request explicando tus cambios.
 
-##📜 Licencia
+## 📜 Licencia
 Este proyecto es de uso educativo para la materia Programación 1 y no cuenta con licencia específica.
