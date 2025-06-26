@@ -44,16 +44,4 @@ Editar
 python main.py
 Explora las distintas ventanas desde el menú principal.
 
-
-## ✏️ Contribuciones
-¡Contribuciones son bienvenidas!
-Si quieres colaborar:
-
-Haz un fork del proyecto.
-
-Crea una branch para tu funcionalidad.
-
-Realiza un pull request explicando tus cambios.
-
-## 📜 Licencia
-Este proyecto es de uso educativo para la materia Programación 1 y no cuenta con licencia específica.
+Este proyecto es de uso educativo para la materia Programación 1.
